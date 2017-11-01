@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Start" << endl;
+	cout << "Starting Game Of Life Simulation" << endl;
 
 	return 0;
 }
